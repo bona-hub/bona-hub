@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Lavya (bona-hub)
 
 <!--
 **bona-hub/bona-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-# Hi there 👋, I'm Lavya (bona-hub)
 
 I’m a Master’s student in **Computer Engineering** specializing in **Software Engineering**.  
 I’m passionate about **wireless technologies, systems design, and simulation development**, and I enjoy building **full-stack projects and web UI applications**.  
