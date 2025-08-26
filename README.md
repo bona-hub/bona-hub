@@ -14,3 +14,38 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi there 👋, I'm Lavya (bona-hub)
+
+I’m a Master’s student in **Computer Engineering** specializing in **Software Engineering**.  
+I’m passionate about **wireless technologies, systems design, and simulation development**, and I enjoy building **full-stack projects and web UI applications**.  
+
+I’m currently taking **CMPE 280** at San Jose State University, where I’m learning modern **front-end frameworks** and collaborative web development.  
+
+
+## 🛠️ Skills & Technologies
+
+- **Languages:** Python, JavaScript, C++, SQL  
+- **Front-end:** React, HTML, CSS, Bootstrap  
+- **Back-end / Databases:** Node.js, Express, MySQL  
+- **Tools:** Git, GitHub, Docker, VS Code  
+- **Other:** Machine Learning, Data Analysis, Statistical Modeling
+
+
+## 💻 Projects & Coursework
+
+- [CMPE 280 - Web UI Development](https://github.com/bona-hub/cmpe280) — Coursework repository  
+- Intelligent Chatbot Comparison — Evaluating AI chatbots for domain knowledge and conversation flow  
+- MedNIST Neural Network Project — Custom PyTorch neural network for medical imaging classification
+
+## 🔗 Connect with me
+
+- [GitHub](https://github.com/bona-hub)  
+- [LinkedIn](https://www.linkedin.com/in/<your-linkedin>)  
+- Portfolio: Coming soon!
+
+
+## 🎯 Fun Fact
+
+I love **gardening** on my Sunnyvale patio and experimenting with summer greens like Malabar spinach and arugula.  
+I also enjoy **hiking** and exploring trails around the Bay Area.
