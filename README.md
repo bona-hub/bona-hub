@@ -40,8 +40,7 @@ I’m currently taking **CMPE 280** at San Jose State University, where I’m le
 
 ## 🔗 Connect with me
 
-- [GitHub](https://github.com/bona-hub)  
-- [LinkedIn](https://www.linkedin.com/in/<your-linkedin>)  
+- [GitHub](https://github.com/bona-hub)    
 - Portfolio: Coming soon!
 
 
